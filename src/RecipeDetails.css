@@ -1,0 +1,37 @@
+.recipe-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.recipe-details img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.recipe-details h2 {
+  margin: 20px 0;
+}
+
+.recipe-details p {
+  margin: 10px 0;
+}
+
+.recipe-details button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.recipe-details button:first-of-type {
+  background-color: #f0c040;
+}
+
+.recipe-details button:last-of-type {
+  background-color: #40c0f0;
+}
