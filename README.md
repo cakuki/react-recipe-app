@@ -21,7 +21,7 @@ All of the codebase (except this sentence) is generated via ChatGPT.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/user/repo.git
+   git clone https://github.com/cakuki/react-recipe-app.git
    ```
 
 2. Install dependencies:
